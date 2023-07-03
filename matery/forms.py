@@ -20,11 +20,11 @@ class FormMatery(forms.ModelForm):
 		labels = {
 			'user': 'Seleccione su usuario',
 			'Nombre': 'Nombre de la materia',
-			'Matematicas1': '¿Que son los números naturales?',
-			'Matematicas2': '¿Que son los números enteros?',
-			'Matematicas3': '√432',
-			'Matematicas4': '2918838/897',
-			'Matematicas5': '(45/26)*(39/25)*(22/33)',
+			'Orientacion1': '¿Que son los números naturales?',
+			'Orientacion2': '¿Que son los números enteros?',
+			'Orientacion3': '√432',
+			'Orientacion4': '2918838/897',
+			'Orientacion5': '(45/26)*(39/25)*(22/33)',
 			
 		}
 		widgets = {
